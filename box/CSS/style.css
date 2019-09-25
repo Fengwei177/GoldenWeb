@@ -10,31 +10,31 @@
     border-radius: 10%;
 }
 
-.row {
-    height: 100px;
-    margin-top: 1px;
-    margin-bottom: 0px;
-
+.container {
+    position: relative;
+    background-color: black;
+    width: 400px;
+    height: 101px;
+    border-radius: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
 }
-
 
 
 .box {
-    float: left;
+    background-color: aqua;
     width: 80px;
     height: 80px;
-    margin: 10px 10px;
     border-radius: 50%;
-    background-color: aqua;
     background-size: contain;
-}
-    
+}  
+
 .voy {
     background-image: url(https://www.space-policy.com/wp-content/uploads/sites/3/2015/02/Voyager-Disk.jpg)
-}
-
-.cas {
-    background-image: url(https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/pia22418-1041.jpg)
 }
 
 .pio {
@@ -43,6 +43,14 @@
 
 .new {
     background-image: url(https://solarsystem.nasa.gov/system/resources/detail_files/795_crop_p_color2_enhanced_release_detail.jpg)
+}
+
+.ult {
+    background-image: url(https://cdn.geekwire.com/wp-content/uploads/2019/02/190222-snowman-630x630.png)
+}
+
+.cas {
+    background-image: url(https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/pia22418-1041.jpg)
 }
 
 .psy {
@@ -67,6 +75,10 @@
 
 .soj {
     background-image: url(https://vignette.wikia.nocookie.net/p__/images/e/ea/Screen_Shot_2017-07-19_at_5.14.10_PM.png/revision/latest?cb=20170719211501&path-prefix=protagonist)
+}
+
+.ins {
+    background-image: url(https://mars.nasa.gov/system/internal_resources/details/original/457_InSight_Images_a_Solar_Panel.jpeg)
 }
 
 .spu {
@@ -97,20 +109,10 @@
     background-image: url(https://assets.newatlas.com/archive/comet-rosetta-1.jpg)
 }
 
-.ins {
-    background-image: url(https://mars.nasa.gov/system/internal_resources/details/original/457_InSight_Images_a_Solar_Panel.jpeg)
-}
-
-.ult {
-    background-image: url(https://cdn.geekwire.com/wp-content/uploads/2019/02/190222-snowman-630x630.png)
-}
-
 .jwst {
     background-image: url(https://pbs.twimg.com/profile_images/1057256231885168641/8BgjH4qf.jpg)
 }
 
 body {
     background-image: url(https://media.giphy.com/media/9xyJXS8NmPOxnWQYj0/giphy.gif);
-    
 }
-
