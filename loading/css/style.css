@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+#container {
+    position: relative;
+    margin: 0 auto;
+    background-color: pink;
+    top: 10vh;
+    width: 300px;
+    height: 600px;
+    border-radius: 30px;
+    
+   
+}
+
+
+
+
+
+.box1 {
+    position: relative;
+    margin: 0, auto;
+
+    left: 50px;
+    width: 100px;
+    height: 100px;
+
+
+    animation-name: kuntosh;
+    animation-duration: 1000ms;
+    animation-fill-mode: forwards;
+    
+    animation-direction: inherit;
+    animation-iteration-count: infinite; 
+}
+
+.box2 {
+    position: relative;
+    margin: 0, auto;
+
+    left: 50px;
+    width: 100px;
+    height: 100px;
+
+
+    animation-name: hummingbird;
+    animation-duration: 2000ms;
+    animation-fill-mode: forwards;
+    
+    animation-direction: inherit;
+    animation-iteration-count: infinite; 
+}
+
+.box3 {
+    position: relative;
+    margin: 0, auto;
+
+    left: 50px;
+    width: 100px;
+    height: 100px;
+
+
+    animation-name: northstar;
+    animation-duration: 3000ms;
+    animation-fill-mode: forwards;
+    
+    animation-direction: inherit;
+    animation-iteration-count: infinite; 
+}
+
+.box4 {
+    position: relative;
+    margin: 0, auto;
+
+    left: 50px;
+    width: 100px;
+    height: 100px;
+
+
+    animation-name: civility;
+    animation-duration: 4000ms;
+    animation-fill-mode: forwards;
+    
+    animation-direction: inherit;
+    animation-iteration-count: infinite; 
+}
+
+
+
+@keyframes kuntosh {
+    0% {top: 0px; left: 0px; border-radius: 10%;}
+    25% {top: 0px; left: 200px; border-radius: 20%;
+    background-color: pink;}
+    50% {top: 200px; left: 200px; border-radius: 30%;
+    background-color: lightseagreen;}
+    75% {top: 200px; left: 0px; border-radius: 40%;
+    background-color: pink;}
+    100% {top: 0px; left: 0px; border-radius: 50%;
+    background-color: lightseagreen;}
+   
+}
+
+@keyframes hummingbird {
+    0% {top: 0px; left: 0px; border-radius: 50;}
+    25% {top: 0px; left: 200px; border-radius: 40%;
+    background-color: pink;}
+    50% {top: 200px; left: 200px; border-radius: 30%;
+    background-color: lightseagreen;}
+    75% {top: 200px; left: 0px; border-radius: 20%;
+    background-color: pink;}
+    100% {top: 0px; left: 0px; border-radius: 10%;
+    background-color: lightseagreen;}
+   
+}
+
+@keyframes northstar {
+    0% {top: 0px; left: 0px; border-radius: 10;}
+    25% {top: 0px; left: 200px; border-radius: 20%;
+    background-color: pink;}
+    50% {top: 200px; left: 200px; border-radius: 30%;
+    background-color: lightseagreen;}
+    75% {top: 200px; left: 0px; border-radius: 40%;
+    background-color: pink;}
+    100% {top: 0px; left: 0px; border-radius: 50%;
+    background-color: lightseagreen;}
+   
+}
+
+@keyframes civility {
+    0% {top: 0px; left: 0px; border-radius: 50;}
+    25% {top: 0px; left: 200px; border-radius: 40%;
+    background-color: pink;}
+    50% {top: 200px; left: 200px; border-radius: 30%;
+    background-color: lightseagreen;}
+    75% {top: 200px; left: 0px; border-radius: 20%;
+    background-color: pink;}
+    100% {top: 0px; left: 0px; border-radius: 10%;
+    background-color: lightseagreen;}
+   
+}
+
+
+.teal {
+    background-color: teal;
+
+}
