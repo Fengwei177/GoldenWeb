@@ -16,15 +16,15 @@ body {
     background: white;
     width: 112px;
     height: 70px;
-    margin-right: 83.2px;
-    margin-bottom: 12px;
+    margin-right: 92px;
+    margin-bottom: 6px;
 }
 .box2 {
     background: white;
     width: 105px;
     height: 70px;
-    margin-left: 83.2px;
-    margin-bottom: 12px;
+    margin-left: 92px;
+    margin-bottom: 6px;
 }
 
 #img1 {
@@ -39,22 +39,24 @@ body {
 
 
 h1 {
-    font-family: 'Padauk', sans-serif;
-    font-size: 215%;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 202%;
     font-weight: 100;
+    margin-bottom: 21px;
 }
 
 h2 {
-    font-family: 'Padauk', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     font-weight: 100;
-    font-size: 136%;
-    word-spacing: 57px;
+    font-size: 130%;
+    word-spacing: 67px;
+    margin-top: 15px;
 }
 
 .container2 {
     background-color: lightgray;
     width: 600px;
-    height: 60px;
+    height: 40px;
     margin: auto;
     display: flex;
     align-items: center;
