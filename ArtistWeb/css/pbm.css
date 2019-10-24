@@ -4,14 +4,16 @@ body {
 
 .box1 {
     background: white;
-    width: 1440px;
+    width: 100%;
     height: 720px;
     display: flex;
+    margin: auto;
+    flex-direction: row;
 }
 
 #img1 {
     background-image: url("../pbmsplash.jpg");
-    background-size:contain;
+    background-size: cover;
 }
 
 
