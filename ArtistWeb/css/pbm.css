@@ -1,5 +1,5 @@
 body {
-    background-color: lightgray;
+    background-color: #DDDDDD;
 }
 
 .box1 {
@@ -18,7 +18,7 @@ body {
 
 
 .container1 {
-    background-color: lightgray;
+    background-color: #DDDDDD;
     width: 800px;
     height: 170px;
     margin: auto;
@@ -28,7 +28,7 @@ body {
 }
 
 .container2 {
-    background-color: lightgray;
+    background-color: #DDDDDD;
     width: 800px;
     height: 20px;
     margin: auto;
@@ -54,7 +54,7 @@ h3 {
 }
 
 .container3 {
-    background-color: lightgray;
+    background-color: #DDDDDD;
     width: 800px;
     height: 50px;
     margin: auto;
@@ -75,7 +75,7 @@ h4 {
 }
 
 .container4 {
-    background-color: lightgray;
+    background-color: #DDDDDD;
     width: 800px;
     height: 100px;
     margin: auto;
@@ -92,7 +92,7 @@ p {
 }
 
 .container5 {
-    background-color: lightgray;
+    background-color: #DDDDDD;
     width: 800px;
     height: 260px;
     margin: auto;
@@ -100,7 +100,7 @@ p {
 }
 
 .container6 {
-    background-color: lightgray;
+    background-color: #DDDDDD;
     width: 800px;
     height: 420px;
     margin: auto;

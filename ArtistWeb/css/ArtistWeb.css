@@ -1,9 +1,9 @@
 body {
-    background-color: lightgray;
+    background-color: #DDDDDD;
 }
 
 .container1 {
-    background-color: lightgray;
+    background-color: #DDDDDD;
     width: 600px;
     height: 300px;
     margin: auto;
@@ -55,7 +55,7 @@ h2 {
 }
 
 .container2 {
-    background-color: lightgray;
+    background-color: #DDDDDD;
     width: 600px;
     height: 40px;
     margin: auto;
@@ -74,7 +74,7 @@ h2 {
 }
 
 .container3 {
-    background-color: lightgray;
+    background-color: #DDDDDD;
     width: 600px;
     height: 300px;
     margin: auto;
