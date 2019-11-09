@@ -85,7 +85,7 @@ h4 {
 p {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 116%;
-    color: #236CC4;
+    color: black;
     font-weight: 100;
     margin-top: 40px;
     line-height: 26px;
@@ -170,21 +170,21 @@ p {
 }
 
 #img4 {
-    background-image: url("../upp3.png");
+    background-image: url("../F2019.png");
     background-size:contain;
 }
 
 #img5 {
-    background-image: url("../upp4.png");
+    background-image: url("../s2020.png");
     background-size:contain;
 }
 
 #img6 {
-    background-image: url("../upp5.png");
+    background-image: url("../F2020.png");
     background-size:contain;
 }
 
 #img7 {
-    background-image: url("../upp6.png");
+    background-image: url("../S2021.png");
     background-size:contain;
 }
