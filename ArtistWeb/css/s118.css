@@ -59,6 +59,132 @@ h5 {
     
 }
 
+.container11 {
+    background-color: gray;
+    width: 800px;
+    height: 620px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.box44 {
+    background: red;
+    width: 200px;
+    height: 310px;
+    margin: auto;
+}
+
+.box45 {
+    background: green;
+    width: 200px;
+    height: 310px;
+    margin: auto;
+}
+
+.box46 {
+    background: blue;
+    width: 200px;
+    height: 310px;
+    margin: auto;
+}
+
+.box47 {
+    background: yellow;
+    width: 200px;
+    height: 310px;
+    margin: auto;
+}
+
+.box48 {
+    background: pink;
+    width: 200px;
+    height: 310px;
+    margin: auto;
+}
+
+.box49 {
+    background: violet;
+    width: 200px;
+    height: 310px;
+    margin: auto;
+}
+
+.box50 {
+    background: orange;
+    width: 200px;
+    height: 310px;
+    margin: auto;
+}
+
+.box51 {
+    background: white;
+    width: 200px;
+    height: 310px;
+    margin: auto;
+}
+
+#img28 {
+    background-image: url("../s118ske1.jpg");
+    background-size:contain;
+}
+
+#img29 {
+    background-image: url("../s118ske2.jpg");
+    background-size:contain;
+}
+
+#img30 {
+    background-image: url("../s118ske3.jpg");
+    background-size:contain;
+}
+
+#img31 {
+    background-image: url("../s118ske4.jpg");
+    background-size:contain;
+}
+
+#img32 {
+    background-image: url("../s118ske5.jpg");
+    background-size:contain;
+}
+
+#img33 {
+    background-image: url("../s118ske6.jpg");
+    background-size:contain;
+}
+
+#img34 {
+    background-image: url("../s118ske7.jpg");
+    background-size:contain;
+}
+
+#img35 {
+    background-image: url("../s118ske8.jpg");
+    background-size:contain;
+}
+
+.container12 {
+    background-color: #DDDDDD;
+    width: 800px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+h18 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 135%;
+    color: black;
+    margin-left: 23.5%;
+    font-weight: 100;
+    margin-bottom: 4px;
+}
 
 .container3 {
     background-color: #DDDDDD;
@@ -605,6 +731,45 @@ h4 {
     display: flex;
     margin: auto;
 }
+
+.container10 {
+    background-color: #DDDDDD;
+    width: 800px;
+    height: 350px;
+    margin: auto;
+    display: flex;
+    
+    align-items: flex-start;
+}
+
+.box42 {
+    background: #DDDDDD;
+    width: 560px;
+    height: 375px;
+    margin: 0%;
+}
+
+.box43 {
+    background: #DDDDDD;
+    width: 150px;
+    height: 50px;
+    margin-top: 70px;
+    margin-left: 45px;
+}
+
+h17 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 150%;
+    color: black;
+    font-weight: 100;
+    margin: auto;
+}
+
+#img27 {
+    background-image: url("../S118ConS.png");
+    background-size:contain;
+}
+
 
 #img22 {
     background-image: url("../p1.jpg");
