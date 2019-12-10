@@ -32,7 +32,7 @@ h1 {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 260%;
     font-weight: 500;
-    margin-left: 42.5%;
+    margin-left: 32%;
     margin-bottom: 24px;
 }
 
@@ -49,8 +49,8 @@ h1 {
 
 .box27 {
     background: #DDDDDD;
-    width: 570px;
-    height: 429px;
+    width: 522.6px;
+    height: 416px;
     margin: 0%;
 }
 
@@ -58,14 +58,14 @@ h1 {
 
 .box30 {
     background: #DDDDDD;
-    width: 168px;
+    width: 210px;
     height: 200px;
-    margin-top: 80px;
-    margin-left: 70px;
+    margin-top: 115px;
+    margin-left: 80px;
 }
 
 #img26 {
-    background-image: url("../voy.png");
+    background-image: url("../sol.png");
     background-size:contain;
 }
 
