@@ -35,3 +35,38 @@ h1 {
     width: 800px;
     height: 2px;
 }
+
+.container5 {
+    background-color: #DDDDDD;
+    width: 800px;
+    height: 135px;
+    margin: auto;
+    display: flex;  
+}
+
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 100%;
+    font-weight: 5px;
+    margin-bottom: 14px;
+    margin-top: 35px;
+    line-height: 20px;
+}
+
+.container6{
+    background-color: #DDDDDD;
+    width: 800px;
+    height: 200px;
+    margin: auto;
+    margin-top: -15px;
+    display: flex;  
+}
+
+.container7 {
+    background-color: #DDDDDD;
+    width: 800px;
+    height: 400px;
+    margin: auto;
+    margin-top: -37px;
+    display: flex;  
+}

@@ -35,3 +35,61 @@ h1 {
     width: 800px;
     height: 2px;
 }
+
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 130%;
+    font-weight: 5px;
+    margin-bottom: 14px;
+    margin-top: 20px;
+    margin-left: 41%;
+}
+
+.box2 {
+    background: white;
+    width: 800px;
+    height: 533px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#img1 {
+    background-image: url("../bio.jpg");
+    background-size:contain;
+}
+
+.container5 {
+    background-color: #DDDDDD;
+    width: 800px;
+    height: 120px;
+    margin: auto;
+    display: flex;  
+}
+
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 100%;
+    font-weight: 5px;
+    margin-bottom: 14px;
+    margin-top: 35px;
+    line-height: 20px;
+}
+
+
+
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 100%;
+    font-weight: 5px;
+    margin-bottom: 14px;
+    margin-top: 30px;
+    line-height: 20px;
+}
+
+.container6 {
+    background-color: #DDDDDD;
+    width: 800px;
+    height: 300px;
+    margin: auto;
+    display: flex;  
+}

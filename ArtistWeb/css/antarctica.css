@@ -77,13 +77,6 @@ p {
     line-height: 20px;
 }
 
-.container3 {
-    background-color: #DDDDDD;
-    width: 800px;
-    height: 100px;
-    margin: auto;
-    display: flex;  
-}
 
 p {
     font-family: 'Source Sans Pro', sans-serif;
