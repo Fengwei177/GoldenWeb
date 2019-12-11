@@ -1,0 +1,78 @@
+body {
+    background-color: #DDDDDD;
+}
+
+.container1 {
+    background-color: #DDDDDD;
+    width: 800px;
+    height: 220px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
+.container2 {
+    background-color: #DDDDDD;
+    width: 800px;
+    height: 20px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.box1 {
+    background-color: gray;
+    width: 800px;
+    height: 2px;
+}
+
+
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 260%;
+    font-weight: 500;
+    margin-left: 42.5%;
+    margin-bottom: 24px;
+}
+
+.container3 {
+    background-color: #DDDDDD;
+    width: 800px;
+    height: 600px;
+    margin: auto;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    
+}
+
+.box2 {
+    background-color: white;
+    width: 168px;
+    height: 224px;
+    margin: 48px;
+}
+
+.box3 {
+    background-color: white;
+    width: 149.333px;
+    height: 224px;
+    margin: 48px;
+}
+
+
+
+#img1 {
+    background-image: url("../wefoundher.jpg");
+    background-size:contain;
+}
+
+#img2 {
+    background-image: url("../dpc.jpg");
+    background-size:contain;
+}

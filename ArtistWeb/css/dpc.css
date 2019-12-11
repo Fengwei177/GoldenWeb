@@ -1,0 +1,96 @@
+body {
+    background-color: #DDDDDD;
+}
+
+.container1 {
+    background-color: #DDDDDD;
+    width: 800px;
+    height: 220px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
+.container2 {
+    background-color: #DDDDDD;
+    width: 800px;
+    height: 20px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.box1 {
+    background-color: gray;
+    width: 800px;
+    height: 2px;
+}
+
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 260%;
+    font-weight: 500;
+    margin-left: 34%;
+    margin-bottom: 24px;
+}
+
+.container8 {
+    background-color: #DDDDDD;
+    width: 800px;
+    height: 350px;
+    margin: auto;
+    display: flex;
+    
+    align-items: flex-start;
+}
+
+
+.box27 {
+    background: #DDDDDD;
+    width: 480px;
+    height: 720px;
+    margin: 0%;
+}
+
+
+
+.box30 {
+    background: #DDDDDD;
+    width: 210px;
+    height: 200px;
+    margin-top: 180px;
+    margin-left: 80px;
+}
+
+#img26 {
+    background-image: url("../dpctour.jpg");
+    background-size:contain;
+}
+
+
+h6 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 201%;
+    color: black;
+    font-weight: 100;
+    margin: auto;
+}
+
+h7 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 79%;
+    color: black;
+    font-weight: 100;
+    margin: auto;
+}
+
+h8 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 85%;
+    color: black;
+    line-height: 12px;
+    font-weight: 100;
+    margin: auto;
+}

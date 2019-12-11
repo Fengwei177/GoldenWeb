@@ -1,0 +1,95 @@
+body {
+    background-color: #DDDDDD;
+}
+
+.container1 {
+    background-color: #DDDDDD;
+    width: 800px;
+    height: 220px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 260%;
+    font-weight: 500;
+    margin-left: 32%;
+    margin-bottom: 20px;
+}
+
+.container2 {
+    background-color: #DDDDDD;
+    width: 800px;
+    height: 20px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.box1 {
+    background-color: gray;
+    width: 800px;
+    height: 2px;
+}
+
+
+
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 130%;
+    font-weight: 5px;
+    margin-bottom: 14px;
+    margin-top: 20px;
+    margin-left: 41%;
+}
+
+.box2 {
+    background: white;
+    width: 800px;
+    height: 533px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#img1 {
+    background-image: url("../flagmaking.png");
+    background-size:contain;
+}
+
+.container5 {
+    background-color: #DDDDDD;
+    width: 800px;
+    height: 52px;
+    margin: auto;
+    display: flex;  
+}
+
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 100%;
+    font-weight: 5px;
+    margin-bottom: 14px;
+    margin-top: 35px;
+    line-height: 20px;
+}
+
+.container3 {
+    background-color: #DDDDDD;
+    width: 800px;
+    height: 100px;
+    margin: auto;
+    display: flex;  
+}
+
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 100%;
+    font-weight: 5px;
+    margin-bottom: 14px;
+    margin-top: 30px;
+    line-height: 20px;
+}

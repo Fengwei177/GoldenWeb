@@ -36,4 +36,89 @@ h1 {
     height: 2px;
 }
 
+.container3 {
+    background-color: #DDDDDD;
+    width: 800px;
+    height: 450px;
+    margin: auto;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    
+}
+
+.box2 {
+    background-color: white;
+    width: 187.5px;
+    height: 125px;
+    margin: 30px;
+}
+
+.box3 {
+    background-color: white;
+    width: 187.5px;
+    height: 125px;
+    margin: 30px;
+}
+
+.box4 {
+    background-color: #DDDDDD;
+    width: 187.5px;
+    height: 125px;
+    margin: 30px;
+}
+
+.box5 {
+    background-color: white;
+    width: 187.5px;
+    height: 125px;
+    margin: 30px;
+}
+
+.box6 {
+    background-color: #DDDDDD;
+    width: 187.5px;
+    height: 125px;
+    margin: 30px;
+}
+
+.box7 {
+    background-color: white;
+    width: 187.5px;
+    height: 125px;
+    margin: 30px;
+}
+
+#img1 {
+    background-image: url("../antarctica.jpg");
+    background-size:contain;
+}
+
+#img2 {
+    background-image: url("../dalian.png");
+    background-size:contain;
+}
+
+#img3 {
+    background-image: url("../themoon.png");
+    background-size:contain;
+}
+
+#img4 {
+    background-image: url("../mars.png");
+    background-size:contain;
+}
+
+#img5 {
+    background-image: url("../death.png");
+    background-size:contain;
+}
+
+#img6 {
+    background-image: url("../flagmaking.png");
+    background-size:contain;
+}
 
