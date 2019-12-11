@@ -1,0 +1,245 @@
+body {
+    background-color: #DDDDDD;
+}
+
+.container1 {
+    background-color: #DDDDDD;
+    width: 800px;
+    height: 220px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
+.container2 {
+    background-color: #DDDDDD;
+    width: 800px;
+    height: 20px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.box1 {
+    background-color: gray;
+    width: 800px;
+    height: 2px;
+}
+
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 260%;
+    font-weight: 500;
+    margin-left: 43%;
+    margin-bottom: 24px;
+}
+
+.box2 {
+    background: white;
+    width: 800px;
+    height: 533px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#img1 {
+    background-image: url("../beach.jpg");
+    background-size:contain;
+}
+
+.box3 {
+    background: white;
+    width: 800px;
+    height: 1200px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#img2 {
+    background-image: url("../heli.jpg");
+    background-size:contain;
+}
+
+.box4 {
+    background: white;
+    width: 800px;
+    height: 1200px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#img3 {
+    background-image: url("../16.jpg");
+    background-size:contain;
+}
+
+.box5 {
+    background: white;
+    width: 800px;
+    height: 1200px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#img4{
+    background-image: url("../bridge.jpg");
+    background-size:contain;
+}
+
+.box6 {
+    background: white;
+    width: 800px;
+    height: 533px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#img5{
+    background-image: url("../morning.jpg");
+    background-size:contain;
+}
+
+.box7 {
+    background: white;
+    width: 800px;
+    height: 533px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#img6{
+    background-image: url("../set.jpg");
+    background-size:contain;
+}
+
+.box8 {
+    background: white;
+    width: 800px;
+    height: 1200px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#img7{
+    background-image: url("../lakev.jpg");
+    background-size:contain;
+}
+
+.box9 {
+    background: white;
+    width: 800px;
+    height: 533px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#img8{
+    background-image: url("../lakeh.jpg");
+    background-size:contain;
+}
+
+.box10 {
+    background: white;
+    width: 800px;
+    height: 1200px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#img9{
+    background-image: url("../lightn.jpg");
+    background-size:contain;
+}
+
+.box11 {
+    background: white;
+    width: 800px;
+    height: 1200px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#img10{
+    background-image: url("../lightm.jpg");
+    background-size:contain;
+}
+
+.box12 {
+    background: white;
+    width: 800px;
+    height: 1200px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#img11{
+    background-image: url("../laser.jpg");
+    background-size:contain;
+}
+
+.box13 {
+    background: white;
+    width: 800px;
+    height: 533px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#img12{
+    background-image: url("../long.jpg");
+    background-size:contain;
+}
+
+.box14 {
+    background: white;
+    width: 800px;
+    height: 1200px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#img13{
+    background-image: url("../lens.jpg");
+    background-size:contain;
+}
+
+.box15 {
+    background: white;
+    width: 800px;
+    height: 1200px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#img14{
+    background-image: url("../circle.jpg");
+    background-size:contain;
+}
+
+.box16 {
+    background: white;
+    width: 800px;
+    height: 1200px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#img15{
+    background-image: url("../lego.jpg");
+    background-size:contain;
+}
+
+.box17 {
+    background: white;
+    width: 800px;
+    height: 533px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#img16{
+    background-image: url("../lego2.jpg");
+    background-size:contain;
+}
